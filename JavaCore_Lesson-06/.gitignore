@@ -18,3 +18,7 @@
 .settings/
 .classpath
 .project
+
+src/ua/lviv/lgs/delegation/
+src/ua/lviv/lgs/interfaces/
+src/ua/lviv/lgs/monsters/
