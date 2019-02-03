@@ -13,7 +13,7 @@ public class FixedSalaryWorker extends Worker implements Salary {
 	@Override
 	public void salary() {
 		double salary = this.monthRate;
-		System.out.println("Зарплата работника " + super.getName() + " составила " + salary + " грн.");		
+		System.out.println("Р—Р°СЂРїР»Р°С‚Р° СЂР°Р±РѕС‚РЅРёРєР° " + super.getName() + " СЃРѕСЃС‚Р°РІРёР»Р° " + salary + " РіСЂРЅ.");		
 	}
 
 }

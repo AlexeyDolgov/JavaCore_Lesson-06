@@ -34,7 +34,7 @@ public class MyCalculator implements ua.lviv.lgs.task6_2.interface1.Numerable {
 	}
 	
 	static void viewCalcResult(double result) {
-		System.out.println("Результ операции равен " + result);
+		System.out.println("Р РµР·СѓР»СЊС‚ РѕРїРµСЂР°С†РёРё СЂР°РІРµРЅ " + result);
 	}
 	
 }
